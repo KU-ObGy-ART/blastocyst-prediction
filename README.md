@@ -18,7 +18,7 @@ To run the model on Colab:
 
 ## Repository Contents
 - **Jupyter Notebook Files:**  
-  Notebooks containing the implementation, training, evaluation, and testing of the model.
+  Notebooks containing the necessary preprocessing, model implementation, and testing.
 
 ## Citation
 If you use the code or data from this repository, please cite our preprint:
